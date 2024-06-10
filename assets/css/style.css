@@ -75,7 +75,7 @@ main section {
 }
 
 main img {
-    max-height: 200px;
+    height: 200px;
 }
 
 main h2 {
@@ -119,6 +119,7 @@ aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height: 150px;
 }
 
 footer {
