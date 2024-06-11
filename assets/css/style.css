@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*container for page heading and nav bar*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 span {
     color: #d9dcd6;
 }
 
+/*navigation bar display*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*large image below header*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/*container for 3 main sections*/
 main {
     width: 75%;
     display: inline-block;
@@ -83,6 +87,7 @@ main h2 {
     font-size: 36px;
 }
 
+/*image placements in main sections*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -93,7 +98,7 @@ main h2 {
     margin-left: 25px;
 }
 
-
+/*container for 3 'benefits' aside sections*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -122,6 +127,7 @@ aside img {
     height: 150px;
 }
 
+/*page footer*/
 footer {
     padding: 30px;
     clear: both;
